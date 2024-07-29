@@ -1,4 +1,4 @@
-Hi 👋 My name is Lena
+Hi 👋 My name is Elena
 =====================
 
 Frontend Developer
